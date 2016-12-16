@@ -1,0 +1,70 @@
+﻿2016-10-25 23:53:31.840855|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
+2016-10-26 00:49:14.591050|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2016-10-26 00:54:50.920287|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2016-10-26 00:54:50.920287|INFO    |PktHandler    |1  |Dropping client 6 because of resend timeout
+2016-10-26 01:48:56.159904|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2016-10-26 02:01:23.433645|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2016-10-26 21:09:10.038590|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:131) with values (value:1) was added by 'Igna'(id:2) to channel 'Los pingüinos de adventure time'(id:20)
+2016-10-26 21:09:10.106594|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:131) with values (value:0) was added by 'Igna'(id:2) to channel 'Los pingüinos de adventure time'(id:20)
+2016-10-26 21:09:10.633624|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:131) with values (value:1) was added by 'Igna'(id:2) to channel 'Los pingüinos de adventure time'(id:20)
+2016-10-26 21:33:05.452691|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Atlas Reactor'(id:15) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:08.431861|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Normie'(id:7) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:11.126015|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'LoL'(id:16) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:14.872230|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'GW2'(id:17) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:17.365372|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Hearthstone'(id:18) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:20.244537|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Diablo 3'(id:19) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:22.943691|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Especial'(id:20) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:26.896917|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'SMB'(id:21) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:29.527068|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Battlerite'(id:23) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:32.428234|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Overwatch'(id:24) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:35.858430|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Salty'(id:26) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:38.648590|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Juanismo'(id:28) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:42.711822|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Banco del T$'(id:32) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:42.995838|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'CSGO'(id:14) by client 'Nekrosis'(id:8)
+2016-10-26 21:33:49.253196|INFO    |VirtualServer |1  |client (id:11) was added to servergroup 'Server Admin'(id:6) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:50.432263|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Juanismo'(id:28) by client 'Nekrosis'(id:8)
+2016-10-26 21:33:54.169477|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Server Admin'(id:6) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:33:59.630790|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Banco del T$'(id:32) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:05.594131|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Salty'(id:26) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:09.336345|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Overwatch'(id:24) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:12.107503|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Battlerite'(id:23) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:15.698709|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Especial'(id:20) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:18.796886|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Diablo 3'(id:19) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:21.952066|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Hearthstone'(id:18) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:28.637449|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'GW2'(id:17) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:31.329603|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'LoL'(id:16) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:34.037758|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'Atlas Reactor'(id:15) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 21:34:36.479897|INFO    |VirtualServer |1  |client (id:11) was removed from servergroup 'CSGO'(id:14) by client 'SKT OnePunchLee'(id:5)
+2016-10-26 22:36:32.663451|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2016-10-26 23:10:24.591670|INFO    |PktHandler    |1  |Dropping client 7 because of ping timeout 19 0 0
+2016-10-26 23:12:00.995184|INFO    |PktHandler    |1  |Dropping client 8 because of ping timeout 19 0 0
+2016-10-26 23:15:48.918221|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2016-10-26 23:18:06.257076|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2016-10-26 23:18:06.257076|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
+2016-10-26 23:21:05.364321|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2016-10-26 23:21:05.364321|INFO    |PktHandler    |1  |Dropping client 12 because of resend timeout
+2016-10-26 23:25:02.412879|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2016-10-26 23:25:38.383936|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2016-10-26 23:25:38.383936|INFO    |PktHandler    |1  |Dropping client 14 because of resend timeout
+2016-10-26 23:42:01.997196|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2016-10-27 01:12:12.950685|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2016-10-27 01:12:12.950685|INFO    |PktHandler    |1  |Dropping client 9 because of resend timeout
+2016-10-27 01:13:13.899171|INFO    |VirtualServer |1  |client (id:17) was added to servergroup 'Juanismo'(id:28) by client 'Marce Tineli'(id:17)
+2016-10-27 01:13:24.153757|INFO    |VirtualServer |1  |client (id:17) was added to servergroup 'Especial'(id:20) by client 'Marce Tineli'(id:17)
+2016-10-27 01:15:09.300771|INFO    |VirtualServer |1  |client (id:17) was removed from servergroup 'Juanismo'(id:28) by client 'Marce Tineli'(id:17)
+2016-10-27 01:43:34.084279|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2016-10-27 01:45:22.145460|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2016-10-27 01:46:34.696610|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2016-10-27 01:46:34.696610|INFO    |PktHandler    |1  |Dropping client 11 because of resend timeout
+2016-10-27 01:49:42.341342|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2016-10-27 01:51:16.692739|INFO    |VirtualServer |1  |client 'Marce Tineli'(id:17) was added to channelgroup 'Peron'(id:6) by client 'Igna'(id:2) in channel 'Los Retraso Awards'(id:1)
+2016-10-27 01:56:15.660839|INFO    |PktHandler    |1  |Dropping client 15 because of ping timeout 19 0 0
+2016-10-27 02:00:52.811691|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2016-10-27 02:02:28.906187|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2016-10-27 02:12:11.558513|INFO    |PktHandler    |1  |Dropping client 18 because of ping timeout 19 0 0
+2016-10-27 02:29:58.032512|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2016-10-27 02:29:58.032512|INFO    |PktHandler    |1  |Dropping client 2 because of resend timeout
+2016-10-27 02:32:47.442202|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2016-10-27 02:34:23.503696|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2016-10-27 02:58:13.008459|INFO    |PktHandler    |1  |Dropping client 6 because of ping timeout 19 0 0
+2016-10-27 10:36:55.942681|INFO    |VirtualServerBase|1  |stopped
