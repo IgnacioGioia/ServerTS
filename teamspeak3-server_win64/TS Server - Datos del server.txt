@@ -1,3 +1,0 @@
-Login name: serveradmin
-Pass: 5+u4z4E4
-Server admin token: MDllCRDriUaZHLUJPqJxPKhdT2UeHRCfNPkoEXPG
