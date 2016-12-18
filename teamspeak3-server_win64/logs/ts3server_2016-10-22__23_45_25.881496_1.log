@@ -1,6 +1,0 @@
-﻿2016-10-22 23:45:27.832608|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, :::9987
-2016-10-22 23:45:27.835608|WARNING |VirtualServer |1  |--------------------------------------------------------
-2016-10-22 23:45:27.835608|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
-2016-10-22 23:45:27.835608|WARNING |VirtualServer |1  |token=MDllCRDriUaZHLUJPqJxPKhdT2UeHRCfNPkoEXPG
-2016-10-22 23:45:27.836608|WARNING |VirtualServer |1  |--------------------------------------------------------
-2016-10-22 23:49:41.071092|INFO    |VirtualServerBase|1  |stopped
